@@ -1,10 +1,10 @@
 # Hướng dẫn sử dụng mã nguồn:
 
 ##**Mục Lục:**
-- [Mục đích của bộ mã nguồn](https://github.com/House-FengFeng/Login-AutoIt-PHP/blob/master/README.md#m%E1%BB%A5c-%C4%91%C3%ADch)
-- [Kiến thức cần thiết để sử dụng](https://github.com/House-FengFeng/Login-AutoIt-PHP/blob/master/README.md#ki%E1%BA%BFn-th%E1%BB%A9c-c%E1%BA%A7n-thi%E1%BA%BFt)
-- [Hướng dẫn sử dụng](https://github.com/House-FengFeng/Login-AutoIt-PHP/blob/master/README.md#h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-s%E1%BB%AD-d%E1%BB%A5ng)
-- [Tác giả](https://github.com/House-FengFeng/Login-AutoIt-PHP/blob/master/README.md#t%C3%A1c-gi%E1%BA%A3-zhu-jin-feng)
+- [Mục đích của bộ mã nguồn](https://github.com/House-FengFeng/Login-AutoIt-PHP/#m%E1%BB%A5c-%C4%91%C3%ADch)
+- [Kiến thức cần thiết để sử dụng](https://github.com/House-FengFeng/Login-AutoIt-PHP/#ki%E1%BA%BFn-th%E1%BB%A9c-c%E1%BA%A7n-thi%E1%BA%BFt)
+- [Hướng dẫn sử dụng](https://github.com/House-FengFeng/Login-AutoIt-PHP#h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-s%E1%BB%AD-d%E1%BB%A5ng)
+- [Tác giả](https://github.com/House-FengFeng/Login-AutoIt-PHP/#t%C3%A1c-gi%E1%BA%A3-zhu-jin-feng)
 
 ####**Mục đích:**
 - Mình tạo ra mã nguồn tích hợp PHP và AutoIt đơn giản hóa chức năng đăng nhập cho các bạn viết code login đăng nhập đỡ vất vả, mà việc bảo vệ thông tin sẽ bảo mật hơn khi bạn chỉ sử dụng cách thô sơ là ghi file và cũng sẽ khó khăn hơn đối với bạn nào mới tập tành code.
